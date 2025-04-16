@@ -49,7 +49,7 @@
     <thead>
       <tr>
         <th>S.I No</th>
-        <th> Date </th>
+        <th>Date</th>
         <th>Source of Resume</th>
         <th>Position Name</th>
         <th>Candidate Name</th>
@@ -81,32 +81,30 @@
         <td>10</td>
         <td>33K</td>
         <td>35K</td>
-        <td>Joined</td>
+        <td>sucessfully Onboarded</td>
       </tr>
-      <td>02</td>
-      <td>04-12-2025</td>
-      <td>Indeed</td>
-      <td>Sr.HR Executive</td>
-      <td>Mohini Sudha Rani</td>
-      <td>8522892777</td>
-      <td></td>
-      <td></td>
-      <td>Hyderabad</td>
-      <td>HR Generalist</td>
-  <td>Deccan solutions</td>
-  <td>8</td>
-  <td>65K</td>
-  <td>80K</td>
-  <td>joined</td>
-  </tr>
-    
-    
-      </td>
-      
+      <tr>
+        <td>02</td>
+        <td>04-12-2025</td>
+        <td>Indeed</td>
+        <td>Qualiry Analyst</td>
+        <td>Manraj Mali</td>
+        <td>8094352574</td>
+        <td>manrajmail1994@gmail.com</td>
+        <td>MP(Tirupathi,AP)</td>
+        <td>Hyderabad</td>
+        <td>Quality Analyst</td>
+        <td>?</td>
+        <td>6</td>
+        <td>25K</td>
+        <td>35K</td>
+        <td>sucessfully Onboarded</td>
+      </tr>
     </tbody>
   </table>
 </body>
 </html>
+
 
 
   
